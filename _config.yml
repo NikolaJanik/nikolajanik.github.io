@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Debugując studia"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Przmyślenia na temat tego, czego się nauczyłam studiując Informatykę (i nie tylko)"
 name                     : "Nikola"
-description              : "An amazing website about inforatics, cybersecurity, math and machine learning. Read and enjoy!"
+description              : "Notatki ze studiów, projektów i eksperymentów. Możesz liczyć na konkretne przemyślenia i uwagi, których nie usłyszysz na akademickich wykładach ani od ziomka na YT."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Nikola"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Studentka informatyki | cyberbezpieczeństwo | machine learning"
+  location         : "Polska"
   email            :
   links:
     - label: "Email"
