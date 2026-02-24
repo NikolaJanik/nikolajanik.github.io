@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Nikola"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Studentka informatyki \| cyberbezpieczeństwo \| machine learning"
+  bio              : "Studentka informatyki | cyberbezpieczeństwo | machine learning"
   location         : "Polska"
   email            :
   links:
